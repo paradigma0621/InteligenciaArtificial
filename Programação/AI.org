@@ -1,0 +1,9 @@
+- Dizer de que forma ele deve agir (exemplo: "Você, como desenvolvedor sênior, dê...")
+- Passar a query e perguntar: quando filtrar por "campo_id" único se tem possibilidadae de não trazer algum resultado.
+- Pedir pro ChatGPT criar testes, e depois perguntar se houve cenários não testados em relação aos que já foram fornecidos.
+* Copilot
+- se o Copilot não estiver entendendo o problema: escrever a declaração de um método isolado e descrever qual deve ser a funcionalidade do método, quais campos x e y deve ter por entrada, e fazer perguntas em cima desse método.
+	Segundo as palavras do curso da Alura: É preferível escrever códigos isolados em conjunto com o Copilot.
+	Isso mesmo! Ao tentar resolver uma solução mais complexa, é mais eficiente fazer pequenas partes do código com o Copilot para que ele gere um código menos complexo e funcional em vez de um código mais complexo, que pode não se atentar a detalhes importantes.
+- caso o Copilot não esteja acertando a sugestão, pode-se passar o comentário em inglês
+* Pedir pro ChatGPT refatorar um código segundo Clean Code e SOLID

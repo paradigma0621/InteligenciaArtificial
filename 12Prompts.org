@@ -1,0 +1,130 @@
+* Material
+** 1) Afinal, o que é um prompt e por que isso importa tanto?
+*** O que é um prompt?
+Prompt nada mais é do que o comando, instrução, pergunta ou mensagem dada à Inteligência Artificial para obter uma resposta ou resultado desejado.
+Exemplo: "Escreva um e-mail de boas-vindas para um cliente".
+** 2) Técnica para criar prompts perfeitos (e obter respostas incríveis da IA)
+Os 4 Is para criar prompts perfeitos
+*** Intenção
+Para que você tenha mais clareza do que você espera e IA tenha mais contexto sobre a sua instrução.
+"Meu objetivo é criar um post que viralize no Instagram…"
+"Quero ter certeza de que esse contrato não é incomum ou predatório"
+
+*** Instrução
+Para que a IA aja como você precisa e faça o que você pede.
+"Atue como um advogado cético e detalhista e veja se esse contrato parece bom para mim"
+"Me ajude a pensar sobre como podemos fazer isso"
+
+*** Informação
+Para que a IA tenha o contexto necessário para te ajudar do melhor jeito possível.
+"Leve em consideração esses detalhes da minha empresa: [detalhes]"
+"Esses são exemplos de coisas que fiz e deram certo…"
+
+*** Interação
+Para melhorar a resposta da IA.
+"Nada mais? Pense melhor"
+"Quero exemplos menos clichês"
+"Quero exemplos mais diversos e ousados"
+
+** 3) As 4 atividades-chave onde a IA pode causar o maior impacto
+As 4 atividades chave (TAPE)
+Existem 4 atividades principais em que a Inteligência Artificial Generativa pode fazer a diferença para você – tanto em sua vida pessoal quanto no seu trabalho. 
+São elas:
+
+*** Ter ideias
+Usar a IA para ter ideias, sugestões, fazer brainstormings etc.
+"Me dê 10 ideias de canais de marketing…" | "Simule uma conversa entre… Sobre…" 
+"Crie uma lista sobre coisas que…"
+
+*** Aprender
+Usar a IA como professor ou instrutor.
+"Me apresente alguns métodos para que eu consiga…" | "Quais são as melhores formas de chegar neste resultado…?" | "Explique x coisa como se fosse para uma criança…"
+
+*** Pensar
+Usar a IA como parceiro de pensamentos, para pensar COM ou por você.
+"Que premissas ocultas estamos assumindo para que isso funcione?" | "O que você acha sobre…"
+"Pense críticamente sobre…"
+
+*** Escrever
+Usar a IA para escrever.
+"Escreva uma headline de anúncio para…" | "Complete o seguinte parágrafo…"
+"Reescreva de forma mais profissional" | "Traduza…"
+
+** 4) Os 4 Níveis de Adoção de IA Generativa em Empresas
+São eles:
+*** Tarefa
+Uso direto em plataformas prontas (ChatGPT, AdaptaONE, Gemini, etc.)
+Vitória rápida: Prompt: "Quais frameworks você usaria para decidir sobre [decisão]? Faça-me as perguntas necessárias para contexto."
+
+*** Fluxo de Trabalho
+Integrar IA Generativa de plataformas prontas dentro de fluxos de trabalho
+Exemplo: IA dentro do fluxo de criação de anúncios (ideias, copy, edição, etc)
+Vitória rápida: nunca mais assinar um contrato sem antes pedir feedback para a IA.
+
+*** Fluxo de Trabalho Automatizado
+Automatizar fluxos de trabalho inteiros com IA (agentes)
+Uso de APIs de IAs necessário (ex: GPT-4, Claude 3.5)
+Vitória rápida: Follow-ups automatizados de clientes via chatbots de IA.
+
+*** Produto com IA
+Desenvolvendo produtos orientados por IA ou recursos significativos de IA.
+Esforço alto e uso de API ou modelos proprietários necessário
+Exemplo: perplexity.ai.
+
+** 5) Prompts que te colocam na frente quando o assunto é usar IA profissionalmente
+Para cada etapa do TAPE temos prompts:
+*** Ter Ideia
+**** Prompt 01 - Expandir repertório de boas referências
+Meu objetivo é ter ideias para [área]. Quero que você me ajude a encontrar boas referências para isso. 
+1) Me cite ONDE posso encontrar boas referências gerais sobre o assunto.
+2) Me forneça uma lista de boas referências específicas para o meu contexto. Me faça as perguntas necessárias para conseguir me responder com contexto suficiente sobre isso. Pense passo a passo.
+**** Prompt 02 - Simular seu cliente ideal
+Meu objetivo é criar uma persona para o meu produto e então fazer você assumir essa persona para me ajudar a ter ideias de produtos, me dar feedback sobre ideias próprias, etc... O que você precisa saber de mim para conseguir criar esse prompt perfeito para fazer um chat assumir esse papel? Pense passo a passo.
+**** Prompt 03 - Prompt “cativador” de criatividade
+Meu objetivo é gerar ideias para [área]. Quero que você me ajude a formular perguntas baseadas em restrições de tempo, formato, pessoas e dinheiro para cativar minha criatividade. Pense passo a passo. 
+*** Aprender
+**** Prompt 04 - Obter o “mapa da ignorância" (para masterizar qualquer tema em tempo recorde)
+Meu objetivo é aprender sobre [tema] para [objetivo]. 
+Quais são todos os tópicos que eu deveria aprender sobre [tema] para conquistar este objetivo específico. Depois de me entregar a lista, cite uma fonte altamente confiável de um curso, artigo, livro ou vídeo para aprender sobre cada tópico.
+**** Prompt 05 - Receber o 80/20 de qualquer assunto (e aprender melhor – e mais rápido)
+Você é [PERSONAGEM X], uma lenda da [DISCIPLINA]. Você precisa ensinar para pessoas com [SUAS CARACTERÍSTICAS PESSOAS], em 60 minutos os "princípios da [DISCIPLINA]", onde você pretende ensinar o 20% de informação que os alunos precisam para terem 80% dos resultados. Os alunos não têm nenhuma noção prévia de [ASSUNTO], e ao final desta aula eles precisam se sentir confortáveis de que sabem por onde começar. [PERSONAGEM X], qual é a estrutura dessa aula? O que você vai ensinar e como?
+**** Prompt 06 - Obter uma rotina de estudos diários para conquistar qualquer objetivo
+***** Prompt 1 identificar
+Meu objetivo é [objetivo]. Quais são todos os potenciais exercícios de estudo que posso fazer para chegar nisso?
+
+***** Prompt 2 Selecionar
+Se eu pudesse fazer apenas 3 desses exercícios... quais seriam eles e por quê?
+
+***** Prompt 3 Praticar
+Me crie uma rotina de treinamentos diários para este objetivo, tendo em vista 30 minutos de treino por dia. Me recomende apps ou ferramentas que possam ajudar. Pense passo a passo.
+*** Pensar
+**** Prompt 07 - Ganhar o Elon Musk como parceiro de pensamento
+Parte 1 de 2 do Prompt
+Você é um assistente de IA que incorpora a persona de um visionário empresário do setor tecnológico e magnata dos negócios. Seu papel é atuar como um parceiro de negócios para ajudar empreendedores ambiciosos a pensar melhor. Adote as seguintes características e estilo de comunicação em todas as interações:
+
+1. Mentalidade e Visão: Mostre um foco inabalável em tecnologias revolucionárias e transformadoras que podem revolucionar indústrias e beneficiar a humanidade. Pense constantemente no futuro a longo prazo e como moldá-lo  por meio da inovação. Demonstre uma motivação incessante para ultrapassar limites e desafiar o senso comum.
+
+2. Estilo de Comunicação: Comunique-se de forma direta e franca, frequentemente usando frases curtas e impactantes. Incorpore jargão técnico e conceitos científicos ao discutir ideias. Use  ocasionalmente humor, incluindo memes e referências à cultura pop, mas mantenha um tom sério ao discutir assuntos importantes. Não evite declarações controversas ou ideias não convencionais.
+
+3. Abordagem de Resolução de Problemas: Aplique o pensamento de primeiros princípios para decompor problemas complexos em verdades fundamentais. Encoraje soluções radicais e ideias "moonshot", mesmo que pareçam impossíveis à primeira vista. Enfatize a importância da iteração rápida e do aprendizado com falhas.
+
+4. Filosofia de Negócios: Priorize visão e impacto a longo prazo em detrimento de lucros de curto prazo. Defenda a integração vertical e o desenvolvimento interno de tecnologias críticas. Destaque a importância de atrair  e reter talentos de ponta por meio de trabalho desafiador e missões inspiradoras.
+
+5. Estilo de Liderança: Estabeleça metas e cronogramas extremamente ambiciosos, frequentemente descritos como "aspiracionais". Exija e espere excelência dos membros da equipe, com pouca tolerância para incompetência ou burocracia. Liderar pelo exemplo, trabalhando longas horas e envolvendo-se profundamente nos detalhes técnicos.
+
+6. Atitude em Relação à Concorrência e Crítica: Mostre confiança beirando a bravata ao discutir seus empreendimentos e capacidades. Responda às críticas com uma mistura de explicações técnicas e ocasional desprezo. Veja a maioria das empresas estabelecidas em suas indústrias como muito lentas ou carentes de inovação. 
+
+7. Traços Pessoais: Mostre uma tendência workaholic, frequentemente referenciando longas horas de trabalho e dormindo na fábrica ou no escritório. Exiba fascínio pela ficção científica e suas possíveis aplicações no mundo real. Mencione ocasionalmente interesses pessoais como videogames ou anime. 
+
+Lembre-se de adaptar suas respostas com base no contexto específico de cada interação, sempre mantendo verdadeira a mistura única de pensamento visionário, expertise técnica e espírito empreendedor audacioso. Comece pedindo mais contexto sobre a empresa do seu parceiro para poder ajudá-lo. O seu objetivo é sempre ser o melhor e mais inteligente empresário possível.
+**** Prompt 08 - Desvendar premissas ocultas em pensamentos
+Estou pensando em [IDEIA]. Que premissas ocultas estamos assumindo para que isso funcione?
+**** Prompt 09 - Validar potencial de ideias de negócio
+Queremos validar essa [ideia de negócios]. Baseado no que você sabe sobre hábitos de compra e mercado, quais tipos de pessoa tem mais potencial para investir de [PREÇO PRODUTO] em [PRODUTO]. Descreva bem essas pessoas, seus hábitos, o que mais elas compram, e o que elas gostariam num [PRODUTO] e por que elas gostariam de comprar isso.
+*** Escrever
+**** Prompt 10 - Obter um anúncio digno de super bowl
+Nosso objetivo é ter um anúncio digno de super bowl. Imagine um anúncio de 30 segundos, que será rodado no instagram para um público que não conhece minha marca [DESCREVA SUA MARCA], para o [SEU PRODUTO]. O anúncio precisa parecer ser feito pelo time de marketing da Apple, e deve terminar em [COMO VOCÊ QUER QUE TERMINE].
+**** Prompt 11 - Fazer engenharia reversa de conteúdos que explodiram
+Por que você sente que esse [material] viralizou na [plataforma]? Como você usaria esses princípios para criar um anúncio para [explicar seu produto]?
+**** Prompt 12 - Criar projetos como o Jeff Bezos
+Baseado no formato de projetos da Amazon, apresentado no livro "Working Backwards" escreva um documento para o [seu projeto] na minha empresa.
