@@ -1,4 +1,4 @@
-* 10 prompts poderosos para acelerar o seu aprendizado:
+* Prompts poderosos para acelerar o seu aprendizado:
 ** Melhore a sua escrita obtendo feedback.
 
 Prompt:
@@ -118,18 +118,15 @@ Prompt:
 
 Estou criando um relatório sobre [inserir tópico]. Pesquise e crie um relatório detalhado com um guia passo a passo que ajudará os leitores a entender como [inserir resultado].
 
-** Crie qualquer forma de texto ou conteúdo
-
 Prompt:
-
 Tópico: Como escrever de forma persuasiva
 Público: Executivos de negócios
 Formato: Discurso
 Tom: Educativo e inspirador
 Objetivo: Inspirar o público a escrever de forma eficaz
 Instruções adicionais: O discurso deve ter menos de 15 minutos
-  
-### **FORMAT**
+  	
+*** FORMAT
 - **Code**  
 - **Table**  
 - **Tweet**  
@@ -139,7 +136,7 @@ Instruções adicionais: O discurso deve ter menos de 15 minutos
 - **List**  
 - **Presentation** (or ask: Convert the answer above into text for a presentation with 1 slide for each key point)
 
-### **TONES**
+*** TONES
 - Formal  
 - Informal  
 - Poetic  
@@ -151,9 +148,9 @@ Instruções adicionais: O discurso deve ter menos de 15 minutos
 - Academic  
 - Friendly
 
-### **MODES AND ROLES**
-- **Mentor:** Guide me on [insert topic].  
-- **Critic:** Critique my argument: [argument].
+*** MODES AND ROLES
+- Mentor: Guide me on [insert topic].  
+- Critic: Critique my argument: [argument].
 
 ** Get ChatGPT to write in your style
 
@@ -179,7 +176,7 @@ Prompt:
 
 I am looking to hire [insert job]. Give me a list of 10 online communities and job boards where I can source candidates for this job.
 
-* 5 ChatGPT prompts (mental models) that will level up your thinking:
+* 5 prompts (mental models) that will level up your thinking:
 ** 1. First Principles Thinking
 
 Prompt:
@@ -220,7 +217,7 @@ Study my decision and generate a list of second-order effects that could appear 
 - Quanto mais específica a pergunta, mais precisa é a resposta
 - Assim como estudava a matéria antes de ir para aula, para casos similares pode-se pedir para o ChatGPT montar 5 perguntas de princípios básicos sobre determinado assunto que se queira aprender. Depois questionar as respostas, depois gerar mais perguntas, depois (...e assim por diante)
 
-* ChatGPT Prompting Cheat Sheet
+* Prompting Cheat Sheet
 ** Prompts for your resume
 - Please review my resume and suggest improvements.
 - What are some common formatting mistakes to avoid in my resume?
@@ -264,7 +261,7 @@ Study my decision and generate a list of second-order effects that could appear 
 ** Me conte uma piada!
 "Me conte uma piada sobre programador."
 * Links
-Join [superhuman.ai](https://superhuman.ai) - newsletter with **300,000+ readers** that teaches you how to use AI.
+Join https://superhuman.ai - newsletter with **300,000+ readers** that teaches you how to use AI.
 
 Curso grátis:
 https://learn.codesignal.com/preview/course-paths/16/prompt-engineering-for-everyone
