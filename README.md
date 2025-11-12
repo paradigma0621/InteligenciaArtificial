@@ -1,6 +1,6 @@
-# Prompts poderosos para acelerar o seu aprendizado:
+# 1 Prompts poderosos para acelerar o seu aprendizado:
 
-## Melhore a sua escrita obtendo feedback.
+## 1.1 Melhore a sua escrita obtendo feedback.
 
 Prompt:
 
@@ -8,7 +8,7 @@ Prompt:
 gramática e ortografia. E faça sugestões que melhorem a clareza da minha
 escrita.
 
-## Use o princípio 80/20 para aprender mais rápido do que nunca.
+## 1.2 Use o princípio 80/20 para aprender mais rápido do que nunca.
 
 Prompt:
 
@@ -16,7 +16,7 @@ Quero aprender sobre \[insira o tema\]. Identifique e compartilhe os 20%
 mais importantes de aprendizados deste tema que me ajudarão a entender
 80% dele.
 
-## Aprenda e desenvolva qualquer nova habilidade - Plano de estudo
+## 1.3 Aprenda e desenvolva qualquer nova habilidade - Plano de estudo
 
 Prompt:
 
@@ -24,7 +24,7 @@ Quero aprender/melhorar em \[insira a habilidade desejada\]. Sou um
 iniciante completo. Crie um plano de aprendizado de 30 dias que me
 ajude, como iniciante, a aprender e melhorar essa habilidade.
 
-## Obtenha resumos de livros curtos e cheios de insights.
+## 1.4 Obtenha resumos de livros curtos e cheios de insights.
 
 Prompt:
 
@@ -32,7 +32,7 @@ Resuma o livro \[insira o nome do livro\] do autor \[insira o nome do
 autor\] e me forneça uma lista dos aprendizados e insights mais
 importantes.
 
-## Receba feedback das mentes mais brilhantes da história.
+## 1.5 Receba feedback das mentes mais brilhantes da história.
 
 Prompt:
 
@@ -48,7 +48,7 @@ Analise os melhores desempenhos em \[insira sua área de trabalho\].
 Dê-me uma lista das lições mais importantes que posso aprender com esses
 melhores desempenhos para aumentar minha produtividade.
 
-## Melhore suas habilidades de resolução de problemas.
+## 1.6 Melhore suas habilidades de resolução de problemas.
 
 Prompt:
 
@@ -62,7 +62,7 @@ Prompt:
 
 Give me a list of 5 solutions that could potentially fix this problem.
 
-## Gere novas ideias e supere o bloqueio criativo
+## 1.7 Gere novas ideias e supere o bloqueio criativo
 
 Prompt:
 
@@ -91,14 +91,14 @@ Prompt
 Brainstorm and give me a list of 20 new ideas for \[insert desired
 output e.g. social media posts about your product\].
 
-## Resuma textos longos e acelere seu aprendizado:
+## 1.8 Resuma textos longos e acelere seu aprendizado:
 
 Prompt:
 
 Resuma o texto abaixo em 500 palavras ou menos. Crie seções para cada
 ponto importante com um breve resumo desse ponto. \[insira o texto\]
 
-## Use histórias e metáforas para ajudar sua memória.
+## 1.9 Use histórias e metáforas para ajudar sua memória.
 
 Prompt:
 
@@ -106,7 +106,7 @@ Atualmente estou aprendendo sobre \[insira o tema\]. Converta as
 principais lições desse tema em histórias envolventes e metáforas para
 ajudar na minha memorização.
 
-## Reforce seu aprendizado testando-se.
+## 1.10 Reforce seu aprendizado testando-se.
 
 Prompt:
 
@@ -115,7 +115,7 @@ de perguntas que testem meu conhecimento. Identifique lacunas de
 conhecimento em minhas respostas e forneça respostas melhores para
 preencher essas lacunas.
 
-## Prepare for a job interview
+## 1.11 Prepare for a job interview
 
 Prompt:
 
@@ -123,7 +123,7 @@ I am interviewing for \[enter position\]. Can you give me a
 comprehensive list of questions interviewers will ask me during this
 interview with answers?
 
-## Rewrite and simplify complex texts
+## 1.12 Rewrite and simplify complex texts
 
 Prompt:
 
@@ -131,7 +131,7 @@ Rewrite the text below in simple and easy to understand words. Simple
 and easy enough for anyone who doesn\'t know the subject to understand
 what I\'m trying to say. \[insert text\]
 
-## Melhore sua forma de tomar decisões.
+## 1.13 Melhore sua forma de tomar decisões.
 
 Prompt:
 
@@ -139,7 +139,7 @@ Estou tentando decidir se devo \[inserir decisão\]. Dê-me uma lista de
 prós e contras que me ajudarão a decidir por que devo ou não tomar essa
 decisão.
 
-## Transforme o ChatGPT em seu estagiário
+## 1.14 Transforme o ChatGPT em seu estagiário
 
 Prompt:
 
@@ -147,16 +147,12 @@ Estou criando um relatório sobre \[inserir tópico\]. Pesquise e crie um
 relatório detalhado com um guia passo a passo que ajudará os leitores a
 entender como \[inserir resultado\].
 
-## Crie qualquer forma de texto ou conteúdo
-
-Prompt:
-
-Tópico: Como escrever de forma persuasiva Público: Executivos de
+Prompt: Tópico: Como escrever de forma persuasiva Público: Executivos de
 negócios Formato: Discurso Tom: Educativo e inspirador Objetivo:
 Inspirar o público a escrever de forma eficaz Instruções adicionais: O
 discurso deve ter menos de 15 minutos
 
-### FORMAT
+### 1.14.1 FORMAT
 
 - ****Code****
 - ****Table****
@@ -168,7 +164,7 @@ discurso deve ter menos de 15 minutos
 - ****Presentation**** (or ask: Convert the answer above into text for a
   presentation with 1 slide for each key point)
 
-### TONES
+### 1.14.2 TONES
 
 - Formal
 - Informal
@@ -181,19 +177,19 @@ discurso deve ter menos de 15 minutos
 - Academic
 - Friendly
 
-### MODES AND ROLES
+### 1.14.3 MODES AND ROLES
 
 - Mentor: Guide me on \[insert topic\].
 - Critic: Critique my argument: \[argument\].
 
-## Get ChatGPT to write in your style
+## 1.15 Get ChatGPT to write in your style
 
 Prompt:
 
 Analyze the writing style from the text below and write a 200-word piece
 on \[insert topic\].
 
-## Train ChatGPT to generate prompts for you
+## 1.16 Train ChatGPT to generate prompts for you
 
 Prompt:
 
@@ -201,23 +197,23 @@ You are an AI designed to help \[insert profession\]. Generate a list of
 the 10 best prompts for yourself. The prompts should be about \[insert
 topic\].
 
-## Ask ChatGPT to help you become better at using ChatGPT
+## 1.17 Ask ChatGPT to help you become better at using ChatGPT
 
 Prompt:
 
 Create a beginner\'s guide to using ChatGPT. Topics should include
 prompts, priming, and personas. Include examples where necessary.
 
-## Get ChatGPT to help you with hiring
+## 1.18 Get ChatGPT to help you with hiring
 
 Prompt:
 
 I am looking to hire \[insert job\]. Give me a list of 10 online
 communities and job boards where I can source candidates for this job.
 
-# 5 prompts (mental models) that will level up your thinking:
+# 2 prompts (mental models) that will level up your thinking:
 
-## 1. First Principles Thinking
+## 2.1 1. First Principles Thinking
 
 Prompt:
 
@@ -225,7 +221,7 @@ Use First Principles Thinking to evaluate \[insert your decision\]. Give
 me a list of all the underlying assumptions that could affect this
 decision and separate them from the facts.
 
-## 2. Inversion
+## 2.2 2. Inversion
 
 Prompt:
 
@@ -233,7 +229,7 @@ Prompt:
 endpoint and work backwards. Please identify the steps that I need to
 avoid and not the ones I need to take from the start.
 
-## 3. Regret Minimization Framework
+## 2.3 3. Regret Minimization Framework
 
 Prompt:
 
@@ -241,7 +237,7 @@ Prompt:
 could cause. Also give me a list of alternate decisions that would
 reduce regret in comparison.
 
-## 4. Margin of Safety
+## 2.4 4. Margin of Safety
 
 Prompt:
 
@@ -249,14 +245,14 @@ Assume that \[insert assumption\] is incorrect. Plan a roadmap with a
 margin of safety so that I can still execute my plan if this assumption
 turns out to be incorrect.
 
-## 5. Second-order Effects
+## 2.5 5. Second-order Effects
 
 Prompt:
 
 Study my decision and generate a list of second-order effects that could
 appear due to this decision. \[Insert decision\]
 
-# Cursos sobre AI
+# 3 Cursos sobre AI
 
 - Fazer perguntas sobre o que o ChatGPT precisa para que ele me dê
   melhores respostas para uma determinada questão - dessa forma ele pode
@@ -268,16 +264,16 @@ appear due to this decision. \[Insert decision\]
   Depois questionar as respostas, depois gerar mais perguntas, depois
   (...e assim por diante)
 
-# Prompting Cheat Sheet
+# 4 Prompting Cheat Sheet
 
-## Prompts for your resume
+## 4.1 Prompts for your resume
 
 - Please review my resume and suggest improvements.
 - What are some common formatting mistakes to avoid in my resume?
 - How can I best highlight my achievements in my resume?
 - What can I do to make my resume stand out from other candidates?
 
-## Prompts for sales
+## 4.2 Prompts for sales
 
 - Generate 10 ways to generate leads for \[product description\].
 - Create a personalized sales email for potential customers. Include
@@ -286,7 +282,7 @@ appear due to this decision. \[Insert decision\]
 - Generate 5 personas I should include in my outreach for \[X\].
 - Generate a script to use when cold-calling \[insert persona\].
 
-## Prompts for developers
+## 4.3 Prompts for developers
 
 - Develop an architecture and code for a \[website description\] website
   with JavaScript.
@@ -295,7 +291,7 @@ appear due to this decision. \[Insert decision\]
 - Create a user journey for \[insert app and persona description\].
 - Generate UI/UX design requirements for \[describe feature\].
 
-## Prompts for education
+## 4.4 Prompts for education
 
 - What are the most significant advancements in \[topic\]?
 - Discuss the history and development of \[topic\], its current
@@ -304,7 +300,7 @@ appear due to this decision. \[Insert decision\]
   on young adults today.
 - Explain the \[topic\] and give some examples.
 
-## Prompts for content creators
+## 4.5 Prompts for content creators
 
 - Generate a creative social media content calendar for the next month
   for our \[product\].
@@ -313,35 +309,35 @@ appear due to this decision. \[Insert decision\]
 - Generate a list of 5 LinkedIn articles to write for \[topic\].
 - Write a case study detailing \[topic of choice\].
 
-# Mais prompts
+# 5 Mais prompts
 
-## Geração de argumetos sobre determinado assunto (criando debates)
+## 5.1 Geração de argumetos sobre determinado assunto (criando debates)
 
 \"Você poderia escrever um argumento para o uso de IA nas universidades
 de várias perspectivas diversas? Antes de fazer isso, indique as
 características dos vários personagens.\"
 
-## Perfil do LinkedIn
+## 5.2 Perfil do LinkedIn
 
 \"Você poderia escrever um perfil no LinkedIn sobre a minha pessoa,
 destacando meus interesses/personalidade de forma a atrair potenciais
 empregadores?\"
 
-## Gerando título para uma foto no Instagram
+## 5.3 Gerando título para uma foto no Instagram
 
 \"Estou postando uma foto de um pôr do sol no meu Instagram e gostaria
 que me ajudasse a criar legendas atraentes para esta imagem.\"
 
-## Gerar mesagens
+## 5.4 Gerar mesagens
 
 \"Crie 5 postagens de mídia social para o Instagram que incluam citações
 de pessoas influentes.\"
 
-## Me conte uma piada!
+## 5.5 Me conte uma piada!
 
 \"Me conte uma piada sobre programador.\"
 
-# Links
+# 6 Links
 
 Join <https://superhuman.ai> - newsletter with ****300,000+ readers****
 that teaches you how to use AI.
