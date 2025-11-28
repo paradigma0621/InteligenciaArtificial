@@ -1,8 +1,7 @@
 * Bons prompts
 ** Ter ideias
 Usar a IA para ter ideias, sugestões, fazer brainstormings etc.
-"Me dê 10 ideias de canais de marketing…" | "Simule uma conversa entre… sobre…" 
-"Crie uma lista sobre coisas que…"
+"Me dê 10 ideias de canais de marketing…" | "Simule uma conversa entre… sobre…" | "Crie uma lista sobre coisas que…"
 *** Prompt 01 - Expandir repertório de boas referências
 Meu objetivo é ter ideias para [área]. Quero que você me ajude a encontrar boas referências para isso. 
 1) Me cite ONDE posso encontrar boas referências gerais sobre o assunto.
@@ -42,9 +41,10 @@ Baseado no formato de projetos da Amazon, apresentado no livro "Working Backward
 - Assim como estudava a matéria antes de ir para aula, para casos similares pode-se pedir para o ChatGPT montar 5 perguntas de princípios básicos sobre determinado assunto que se queira aprender. Depois questinar as respostas, depois (...e assim por diante)
   
 ** Prompts for education
-- What are the most significant advancements in [topic]?  
-- Discuss the history and development of [topic], its current applications and potential future impact.  
-
+- Quais são os avanços mais significativos em [tópico]?
+- Discuta a história e o desenvolvimento de [tópico], suas aplicações atuais e seu potencial impacto futuro.
+- Analise as causas e consequências do [evento] e sua influência nos jovens adultos atualmente.
+- Explique o [tópico] e dê alguns exemplos.
 * Prompts
 ** Use histórias e metáforas para ajudar sua memória.
 

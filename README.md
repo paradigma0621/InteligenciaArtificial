@@ -293,12 +293,10 @@ appear due to this decision. \[Insert decision\]
 
 ## 4.4 Prompts for education
 
-- What are the most significant advancements in \[topic\]?
-- Discuss the history and development of \[topic\], its current
-  applications, and potential future impact.
-- Analyze the causes and consequences of the \[event\] and its influence
-  on young adults today.
-- Explain the \[topic\] and give some examples.
+- Quais são os avanços mais significativos em [tópico]?
+- Discuta a história e o desenvolvimento de [tópico], suas aplicações atuais e seu potencial impacto futuro.
+- Analise as causas e consequências do [evento] e sua influência nos jovens adultos atualmente.
+- Explique o [tópico] e dê alguns exemplos.
 
 ## 4.5 Prompts for content creators
 

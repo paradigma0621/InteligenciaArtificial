@@ -7,3 +7,11 @@
 	Isso mesmo! Ao tentar resolver uma solução mais complexa, é mais eficiente fazer pequenas partes do código com o Copilot para que ele gere um código menos complexo e funcional em vez de um código mais complexo, que pode não se atentar a detalhes importantes.
 - caso o Copilot não esteja acertando a sugestão, pode-se passar o comentário em inglês
 * Pedir pro ChatGPT refatorar um código segundo Clean Code e SOLID
+* Base em cima de base
+A construção do conhecimento se dá de construção de base em cima de base. Parecendo com um bolo de casamento com mais de 1 andar.
+Fundamentar bem os conhecimentos primários (base de baixo), para construir uma base em cima = novo andar, que por fim se tornará a "próxima base primária" sobre a qual se construirá uma outra base, e assim sucessivamente.
+Ex: aprendizado de Typescript fica muito facilitado com o conhecimento base de  javascript.
+
+Se se estiver com dificuldade no aprendizado de algum tema: avaliar se não é preciso o conhecimento da base de baixo.
+Perguntar para o ChatGPT qual a base de conhecimento pressuposto para se assimilar um novo conhecimento.
+
