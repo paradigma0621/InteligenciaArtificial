@@ -340,5 +340,8 @@ de pessoas influentes.\"
 Join <https://superhuman.ai> - newsletter with ****300,000+ readers****
 that teaches you how to use AI.
 
+Leia <https://aiweekly.co/> - descubra o que especialistas em IA estao
+lendo e compartilhando agora.
+
 Curso grátis:
 <https://learn.codesignal.com/preview/course-paths/16/prompt-engineering-for-everyone>
